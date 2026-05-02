@@ -143,8 +143,10 @@ elif st.session_state.page == "result":
     if st.button("⬅️ Back to Home"):
         go_to_home()
         st.rerun()
-
-
+        
+        
+        
+        
 # Footer
 st.markdown("---")
 st.markdown("<div class='footer'>© 2026 AI Sentiment Project - Developed by Group 9</div>", unsafe_allow_html=True)
