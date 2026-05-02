@@ -149,4 +149,4 @@ elif st.session_state.page == "result":
         
 # Footer
 st.markdown("---")
-st.markdown("<div class='footer'>© 2026 AI Sentiment Project - Developed by Group 9</div>", unsafe_allow_html=True)
+st.markdown("<div class='footer'>© 2026 AI Sentiment Project - Developed by Group 10</div>", unsafe_allow_html=True)
