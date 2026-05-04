@@ -140,7 +140,7 @@ elif st.session_state.page == "result":
         st.info(f"### **Result: NEUTRAL 😐** \n\n Confidence: {conf_val:.2%}")
 
     st.write("---")
-    if st.button("⬅️ Back to Home"):
+    if st.button("⬅️ Back"):
         go_to_home()
         st.rerun()
         
